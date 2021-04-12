@@ -42,4 +42,4 @@
 </details
 
 ## Credits
-Everyone who has guided me, given me the tools and support ti become who I am.
+Everyone who has guided me, given me the tools and support to become who I am.
