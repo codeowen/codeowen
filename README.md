@@ -1,4 +1,4 @@
-# Hi, I'm codeowen 👋
+# Hi, I'm Owen 👋
 ### I'm a 14 year old student, freelance programmer and an aspiring developer.
 
 [Feedback & Testimonials](https://github.com/codeowen/Feedback)
