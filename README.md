@@ -1,6 +1,9 @@
 # Hi, I'm codeowen 👋
 ### I'm a 14 year old student, freelance programmer and an aspiring developer.
 
+[Feedback & Testimonials](https://github.com/codeowen/Feedback)
+
+
 **Currently, I am** creating a devlopment team to work on projects, and create new websites, automated bots, and more.
 
 **I'm experienced in** Python, Lua, HTML and CSS, and am currently learning other popular languages now.
