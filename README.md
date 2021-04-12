@@ -56,7 +56,5 @@
 </p>
 </details>
 
----
-
 ## Credits
 Everyone who has guided me, given me the tools and support to become who I am.
