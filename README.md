@@ -41,6 +41,21 @@
 </p>
 </details
 
+<!-- Ignore the indentation -->
+<details open>
+<summary>📬 <b>Socials</b></summary>
+<p>
+
+<a href="mailto:me@owen.works" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://github.com/codeowen" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+</details>
+
 ---
 
 ## Credits
