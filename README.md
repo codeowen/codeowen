@@ -1,5 +1,6 @@
 # Hi, I'm codeowen 👋
-### I'm a 14 year old student, freelance programmer and an aspiring developer. ![](https://api.ghprofile.me/view?username=codeowen)
+![](https://api.ghprofile.me/view?username=codeowen)
+### I'm a 14 year old student, freelance programmer and an aspiring developer.
 
 **Currently, I am** creating a devlopment team to work on projects, and create new websites, automated bots, and more.
 
